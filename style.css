@@ -1,0 +1,106 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(240, 242, 245);
+}
+.main{
+    display: flex;
+}
+.facebook-logo{
+    width: 320px;
+
+}
+.Facebook-top-left{
+    margin-top: 168px;
+    margin-left: 149px;
+}
+p{
+    font-size: 28px;
+    width: 540px;
+    margin-top: -12px;
+    margin-left: 27.5px;
+}
+.Facebook-top-right{
+    border-radius: 8px;
+    box-shadow: 0px 4px 13px rgb(192, 191, 191);
+    margin-top: 124px;
+    margin-left: 40px;
+    height: 350px;
+    width: 395px;
+    background-color: white;
+}
+.Username{
+    font-size: 17px;
+    padding-left: 16px;   
+    border: 1px solid rgb(171, 181, 189);
+    border-radius: 6px;
+    width: 345px;
+    height: 48px;
+    margin-top: 16px;
+    margin-left: 16px;
+}
+.password{
+    font-size: 17px;
+    padding-left: 16px;   
+    border: 1px solid rgb(171, 181, 189);
+    border-radius: 6px;
+    width: 345px;
+    height: 48px;
+    margin-top: 12px;
+    margin-left: 16px;
+}
+.Log{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(0, 126, 230);
+    border: none;
+    border-radius: 6px;
+    width: 365px;
+    height: 48px;
+    margin-top: 16px;
+    margin-left: 16px;
+    cursor: pointer;
+}
+.facebook-logo-right-forget{
+    font-size: 14px;
+    margin-top: 17px;
+    margin-left: 133px;
+    color: blue;
+    cursor: pointer;
+}
+.facebook-logo-right-forget:hover{
+    text-decoration: underline;
+}
+.border{
+    margin-top: 22px;
+    margin-left: 16px;
+    width: 365px;
+    border: 1px solid rgb(241, 233, 233);   
+}
+.account{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(35, 182, 42);
+    border: none;
+    border-radius: 6px;
+    width: 193px;
+    height: 48px;
+    margin-top: 25px;
+    margin-left: 101px;
+    cursor: pointer;
+}
+.business{
+    font-size: 15px;
+    margin-top: 52px;
+    margin-left: 28px;
+}
+.span-mid{
+    cursor: pointer;
+    font-weight: bold;
+}
+.span-mid:hover{
+    text-decoration: underline;
+}
